@@ -1,9 +1,13 @@
 body {
    margin: 0;
    padding: 0;
+   color: rgba(0, 0, 0, 0.6);
 }
 
 /* Sezione banner*/
+h1{
+   color: black;
+}
 section{
    background-color: rgb(62, 160, 221);
    height:150px;
@@ -21,7 +25,6 @@ section{
 
 .container{
    width: 1150px;
-   height: 1000px;
    margin: 0 auto;
 }
 
@@ -61,4 +64,10 @@ table{
 }
 .color-td{
    background-color: lightskyblue;
+}
+
+/* Footer  */
+
+a{
+   
 }
