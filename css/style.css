@@ -14,12 +14,12 @@ section{
    width: 20%;
    height: 45%;
    margin-top: 75px;
-   margin-left: 465px;
+   margin-left: 400px;
 }
 
 /* Sezione container */
 .container{
-   width: 1080px;
+   width: 1200px;
    height: 1000px;
    margin: 0 auto;
 }
