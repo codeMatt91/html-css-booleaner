@@ -14,24 +14,51 @@ section{
    width: 20%;
    height: 45%;
    margin-top: 75px;
-   margin-left: 400px;
+   margin-left: 430px;
 }
 
 /* Sezione container */
+
 .container{
-   width: 1200px;
+   width: 1150px;
    height: 1000px;
    margin: 0 auto;
 }
 
 /* Sezione header */
+
 h1{
    margin-bottom: 0;
 }
 #didascalia{
    margin-top: 0;
-   color: rgba(0, 0, 0, 0.3);
+   color: rgba(0, 0, 0, 0.4);
 }
 #titoletto{
    color: lightskyblue;
+}
+
+/* Sezione Main */
+
+figcaption{
+   color: rgba(0, 0, 0, 0.4);
+   font-size: 12px;
+}
+.text-yellow{
+   background-color: yellow;
+}
+ul{
+   margin-left: 0;
+}
+
+table{
+   border-collapse: collapse;
+   width: 100%;
+   text-align: left;
+}
+#color-th{
+   background-color: rgb(38, 166, 245);
+}
+.color-td{
+   background-color: lightskyblue;
 }
