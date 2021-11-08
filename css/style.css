@@ -1,0 +1,15 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+
+/* Sezione banner*/
+section{
+   background-color: rgb(62, 160, 221);
+   height:120px;
+   background-image: url('../img/pattern.png');
+}
+#logo{
+   width: 20%;
+   margin: 55px 10px;
+}
