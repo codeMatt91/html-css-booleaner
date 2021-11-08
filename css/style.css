@@ -14,5 +14,24 @@ section{
    width: 20%;
    height: 45%;
    margin-top: 75px;
-   margin-left: 20px;
+   margin-left: 465px;
+}
+
+/* Sezione container */
+.container{
+   width: 1080px;
+   height: 1000px;
+   margin: 0 auto;
+}
+
+/* Sezione header */
+h1{
+   margin-bottom: 0;
+}
+#didascalia{
+   margin-top: 0;
+   color: rgba(0, 0, 0, 0.3);
+}
+#titoletto{
+   color: lightskyblue;
 }
