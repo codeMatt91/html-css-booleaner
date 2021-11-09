@@ -68,8 +68,11 @@ table{
 .computer{
    width: 200px;
    height: 150px;
-   background-size: contain;
+   background-size: cover;
+   background-position: center;
    background-repeat: no-repeat;
+   padding: 5px;
+   margin: 10px 0;
 }
 .n1{
    background-image: url('../img/monitor.jpg');
